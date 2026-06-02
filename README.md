@@ -1,16 +1,16 @@
-## Hi there 👋
+ Hi there, I'm Nimra Sadiq! 👋
 
-<!--
-**nimrasadiq-Dev/nimrasadiq-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Computer Science student at NFCIET Multan, specializing in backend development and software engineering. I love building data-driven applications and exploring intelligent systems.
 
-Here are some ideas to get you started:
+#### Skills & Technologies
+* Programming Languages: Python, Java
+* Databases: MySQL
+* Tools & Frameworks: VS Code, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current Focus & Interests
+* Backend Development (Python & Java)
+* Database Design & Normalization
+* Exploring AI and Data Analytics integrations
+
+#### Connect with me
+* [LinkedIn](https://linkedin.com/in/nimra-sadiq-3b0369413)
